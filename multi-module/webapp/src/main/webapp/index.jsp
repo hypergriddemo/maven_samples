@@ -1,8 +1,10 @@
 <html>
 <body>
 <br>
+ <div align="center">
  <img src="https://i.imgur.com/cTTmDSe.jpg" align="middle" height="150"><br>
-<p> Burwood Demonstration </p>
-<p> Currently Running!</p>
+  <h1><p> Burwood Demonstration </p></h1>
+  <h2><p> v1.0 </p></h2>
+ </div>
 </body>
 </html>
